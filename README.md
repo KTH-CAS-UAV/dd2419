@@ -11,6 +11,7 @@ catkin build
 source devel/setup.bash
 roscd dd2419_simulation
 mkdir build
+cd build
 cmake ../../sim_cf/crazyflie-firmware/sitl_make/
 make
 ```
