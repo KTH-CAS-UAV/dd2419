@@ -3,6 +3,7 @@
 ## Install instructions
 ```bash
 cd ~/catkin_ws
+wstool init src
 wstool merge -t src https://raw.githubusercontent.com/danielduberg/dd2419/master/.rosinstall --merge-replace
 wstool update -t src
 rosdep install --from-paths src --ignore-src -r -y
