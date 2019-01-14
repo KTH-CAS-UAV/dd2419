@@ -13,4 +13,4 @@
 - git:
     local-name: dd2419/aruco_ros
     uri: https://github.com/pal-robotics/aruco_ros.git
-    version: 'master'
+    version: 'kinetic-devel'
