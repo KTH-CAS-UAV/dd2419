@@ -1,10 +1,10 @@
 - git:
     local-name: dd2419/dd2419_simulation
-    uri: git@github.com/danielduberg/dd2419_simulation.git
+    uri: git@github.com:danielduberg/dd2419_simulation.git
     version: 'master'
 - git:
     local-name: dd2419/sim_cf
-    uri: git@github.com/danielduberg/sim_cf.git
+    uri: git@github.com:danielduberg/sim_cf.git
     version: 'dd2419'
 - git:
     local-name: dd2419/crazyflie_ros
