@@ -19,11 +19,11 @@ make
 ## Launch instructions
 ```bash
 # Launch the simulation
-roslaunch simulation simulation.launch
+roslaunch dd2419_simulation simulation.launch
 
 # Launch aruco_ros
-roslaunch simulation aruco.launch gui:=true
+roslaunch dd2419_simulation aruco.launch gui:=true
 ```
 
 ## Insert objects into the world
-In Gazebo press the tnsert tab. In the list you will find objects such as `gate`, `b2` (stop sign), `aruco_visual_mark_X`, and so on.
+In Gazebo press the insert tab. In the list you will find objects such as `gate`, `sign_stop`, `aruco_visual_mark_X`, and so on.
