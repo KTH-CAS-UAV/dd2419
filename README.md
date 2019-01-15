@@ -15,3 +15,15 @@ cd build
 cmake ../../sim_cf/crazyflie-firmware/sitl_make/
 make
 ```
+
+## Launch instructions
+```bash
+# Launch the simulation
+roslaunch simulation simulation.launch
+
+# Launch aruco_ros
+roslaunch simulation aruco.launch gui:=true
+```
+
+## Insert objects into the world
+In Gazebo press the tnsert tab. In the list you will find objects such as `gate`, `b2` (stop sign), `aruco_visual_mark_X`, and so on.
