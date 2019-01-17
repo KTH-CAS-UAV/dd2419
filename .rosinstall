@@ -6,11 +6,11 @@
     local-name: dd2419/sim_cf
     uri: https://github.com/danielduberg/sim_cf.git
     version: 'dd2419'
-- git:	
-    local-name: dd2419/crazyflie_ros	
-    uri: https://github.com/KTH-CAS-UAV/crazyflie_ros.git	
-    version: 'master'	
-- git:	
-    local-name: dd2419/aruco_ros	
-    uri: https://github.com/pal-robotics/aruco_ros.git	
+- git:
+    local-name: dd2419/aruco_ros
+    uri: https://github.com/pal-robotics/aruco_ros.git
     version: 'kinetic-devel'
+- git:
+    local-name: dd2419/crazyflie_ros
+    uri: https://github.com/KTH-CAS-UAV/crazyflie_ros.git
+    version: 'master'
