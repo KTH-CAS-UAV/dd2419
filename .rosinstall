@@ -1,15 +1,15 @@
 - git:
     local-name: course_packages/dd2419_simulation
     uri: https://github.com/danielduberg/dd2419_simulation.git
-    version: 'master'
+    version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/dd2419_resources
     uri: https://github.com/danielduberg/dd2419_resources.git
-    version: 'master'
+    version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/sim_cf
     uri: https://github.com/danielduberg/sim_cf.git
-    version: 'dd2419'
+    version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/aruco_ros
     uri: https://github.com/pal-robotics/aruco_ros.git
