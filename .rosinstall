@@ -1,14 +1,14 @@
 - git:
     local-name: course_packages/dd2419_simulation
-    uri: https://github.com/danielduberg/dd2419_simulation.git
+    uri: https://github.com/KTH-CAS-UAV/dd2419_simulation.git
     version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/dd2419_resources
-    uri: https://github.com/danielduberg/dd2419_resources.git
+    uri: https://github.com/KTH-CAS-UAV/dd2419_resources.git
     version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/sim_cf
-    uri: https://github.com/danielduberg/sim_cf.git
+    uri: https://github.com/KTH-CAS-UAV/sim_cf.git
     version: 'course_round_vt_2019'
 - git:
     local-name: course_packages/aruco_ros
