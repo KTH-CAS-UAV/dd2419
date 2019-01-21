@@ -4,7 +4,7 @@
 ```bash
 cd ~/dd2419_ws
 wstool init src
-wstool merge -t src https://raw.githubusercontent.com/danielduberg/dd2419/master/.rosinstall --merge-replace
+wstool merge -t src https://raw.githubusercontent.com/KTH-CAS-UAV/dd2419/master/.rosinstall --merge-replace
 wstool update -t src
 catkin build
 source devel/setup.bash
