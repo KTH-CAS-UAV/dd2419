@@ -3,6 +3,10 @@
     uri: https://github.com/KTH-CAS-UAV/dd2419_simulation.git
     version: 'course_round_vt_2019'
 - git:
+    local-name: course_packages/dd2419_launch
+    uri: https://github.com/KTH-CAS-UAV/dd2419_launch.git
+    version: 'course_round_vt_2019'
+- git:
     local-name: course_packages/dd2419_resources
     uri: https://github.com/KTH-CAS-UAV/dd2419_resources.git
     version: 'course_round_vt_2019'
