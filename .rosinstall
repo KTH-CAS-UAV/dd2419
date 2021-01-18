@@ -17,7 +17,7 @@
 - git:
     local-name: course_packages/aruco_ros
     uri: https://github.com/pal-robotics/aruco_ros.git
-    version: 'kinetic-devel'
+    version: 'melodic-devel'
 - git:
     local-name: course_packages/crazyflie_ros
     uri: https://github.com/KTH-CAS-UAV/crazyflie_ros.git
